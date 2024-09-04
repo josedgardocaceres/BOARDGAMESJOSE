@@ -1,0 +1,102 @@
+[
+  {
+    "id": "CATAN",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+    "boardgame": "CATAN",
+    "description": "Trade, build, and settle the land of Catan in this world-renowned strategy game of resource management.",
+    "playtime": "60 Min.",
+    "difficulty": "3.3/5",
+    "gametype": "Strategy",
+    "players": "2-4 Players"
+  },
+  {
+    "id": "DUNGEON",
+    "image": "https://cf.geekdo-images.com/sgYgyMVxD_ecYXUw0U36YQ__opengraph/img/YZaEEmcagKqrdddvh_OnMrAAqG8=/0x0:1215x638/fit-in/1200x630/filters:strip_icc()/pic681985.jpg",
+    "boardgame": "Dungeons And Dragons",
+    "description": "Dungeons & Dragons is a fantasy tabletop RPG where players create characters, roll dice, and embark on epic adventures led by a storyteller.",
+    "playtime": "120 Min.",
+    "difficulty": "4.3/5",
+    "gametype": "Roleplay",
+    "players": "4-5 Players"
+  },
+  {
+    "id": "HINT",
+    "image": "https://cf.geekdo-images.com/1Ebkya5qKEm0SWGiAI20DA__itemrep/img/4UlHraRERkFITruw9_CkIOPiZU4=/fit-in/246x300/filters:strip_icc()/pic6164116.jpg",
+    "boardgame": "HINT",
+    "description": "Master the art of giving subtle clues to get your team to guess words—without saying the obvious—in this clever party game of creativity and deduction.",
+    "playtime": "60 Min.",
+    "difficulty": "2.1/5",
+    "gametype": "Party Game",
+    "players": "4-5 Players"
+  },
+  {
+    "id": "TICKETTORIDE",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg",
+    "boardgame": "Ticket To Ride",
+    "description": "Race to build railways across continents in this fast-paced game of strategy and adventure.",
+    "playtime": "60 Min.",
+    "difficulty": "3.3/5",
+    "gametype": "Strategy",
+    "players": "2-4 Players"
+  },
+  {
+    "id": "RISK",
+    "image": "https://cf.geekdo-images.com/3ZLj_ipTHli04xOY7KQ8NA__imagepage/img/HEbkn56ascScL3PkKkJ_AGa3DVw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic211812.jpg",
+    "boardgame": "RISK",
+    "description": "Command your armies and conquer the world in this iconic game of global domination and strategy.",
+    "playtime": "120 Min.",
+    "difficulty": "3.8/5",
+    "gametype": "Strategy",
+    "players": "2-6 Players"
+  },
+  {
+    "id": "DIXIT",
+    "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep/img/tsmN3sAHJ6trDaWNbq08BZXtq7g=/fit-in/246x300/filters:strip_icc()/pic6738336.jpg",
+    "boardgame": "Dixit",
+    "description": "Unlock your imagination and tell vivid stories using surreal, beautiful artwork in this enchanting game of clues.",
+    "playtime": "60 Min.",
+    "difficulty": "1.3/5",
+    "gametype": "Party Game",
+    "players": "3-8 Players"
+  },
+  {
+    "id": "SCRABBLE",
+    "image": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep/img/xtiNZzN_7T6xZ3EPxzgYcBz9Ydk=/fit-in/246x300/filters:strip_icc()/pic404651.jpg",
+    "boardgame": "Scrabble",
+    "description": "Craft high-scoring words from your letter tiles and outwit opponents in this classic game of linguistic skill and strategy.",
+    "playtime": "30 Min.",
+    "difficulty": "3/5",
+    "gametype": "Skill",
+    "players": "2-4 Players"
+  },
+  {
+    "id": "SEQUENCE",
+    "image": "https://image.bog-ide.dk/2191954-1098986-1000-797/webp/0/1000/2191954-1098986-1000-797.webp",
+    "boardgame": "Sequence",
+    "description": "Strategically place your chips and form rows, columns, or diagonals in this addictive blend of cards and board gameplay.",
+    "playtime": "30 Min.",
+    "difficulty": "4.3/5",
+    "gametype": "Party Game",
+    "players": "4+ Players"
+  },
+  {
+    "id": "PARTNERS",
+    "image": "https://www.partnersboardgame.com/cdn/shop/files/PartnersgraphicTest_1200x1200.jpg?v=1613731215",
+    "boardgame": "Partners",
+    "description": "Team up with a partner to outmaneuver your opponents and get all your pieces home first in this thrilling card-based strategy game.",
+    "playtime": "60 Min.",
+    "difficulty": "2.4/5",
+    "gametype": "Strategy",
+    "players": "4 Players"
+  },
+  {
+    "id": "MONOPOLY",
+    "image": "https://media.gettyimages.com/id/458577337/photo/monopoly-board-game-box.jpg?s=612x612&w=gi&k=20&c=oiSBvkEgD12_mHkKsySTbZPZ44RQaNOQiMwkS8TsMWk=",
+    "boardgame": "Monopoly",
+    "description": "Buy, trade, and build your way to wealth in this iconic game of real estate tycoons and high-stakes negotiation.",
+    "playtime": "60 Min.",
+    "difficulty": "2.3/5",
+    "gametype": "Skill",
+    "players": "2-8 Players"
+  }
+]
